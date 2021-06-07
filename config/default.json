@@ -1,7 +1,8 @@
 {
     "mongoURI":"mongodb+srv://group14:123456a+@selfq.f3nnw.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-
+    "NODE_ENV" :"production",
     "jwtSecret":"mysecrettoken",
+
 
     "githubClientId":"6724b1a5db0213f3e065",
     "githubSecret":" 74805cf793de0529fd6270bf483cc4c47f3c2cb0"
